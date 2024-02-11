@@ -1,1 +1,2 @@
 # odin-recipes
+Hi! I am new to code and this project helped me get used to some of the skills I learned leading up to the recipe project. It was especially helpful for getting used to GIT. I am still unsure about somethings but will learn as I go.
